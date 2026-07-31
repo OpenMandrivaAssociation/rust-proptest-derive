@@ -6,8 +6,8 @@
 %global crate proptest-derive
 
 Name:           rust-%{crate}
-Version:        0.1.2
-Release:        3%{?dist}
+Version:        0.8.0
+Release:        1%{?dist}
 Summary:        Custom-derive for the Arbitrary trait of proptest
 
 # Upstream license specification: MIT/Apache-2.0
